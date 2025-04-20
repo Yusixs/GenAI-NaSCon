@@ -1,0 +1,8 @@
+Model: 		Flux Schnell fp8
+Sampler: 	k_euler_a
+Aspect Ratio:	Square (1024x1024)
+Steps: 		4
+Guidance: 	1
+Clip Skip: 	1
+
+Crowd-sourced free to use website: https://artbot.site/create
